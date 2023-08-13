@@ -3,6 +3,12 @@
 Scattertext
 
 
+# View html from github
+
+Put URL there: https://raw.githack.com/
+You can then use a tinyurl
+
+
 # Remove search option for private data
 
 The source code should be edited so we can avoid saving search terms. 
